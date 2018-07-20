@@ -1,0 +1,4 @@
+# Recommand System
+A recommender system or a recommendation system (sometimes replacing "system" with a synonym such as platform or engine) is a subclass of information filtering system that seeks to predict the "rating" or "preference" that a user would give to an item. Recommender systems have become increasingly popular in recent years, and are utilised in a variety of areas including movies, music, news, books, research articles, search queries, social tags, and products in general.
+
+In our project, we developed the movie ratings recommend system by applying collaborative filtering as instructed, and the dataset we used is the MovieLens Data Sets with size of 100k. We implemented both ITEM-ITEM collaborative filtering and USER-USER collaborative filtering aim to gain a more convincing comparison and conclusion. And the result is evaluated by calculating the Root Mean Squared Error and Mean Absolute Error.
